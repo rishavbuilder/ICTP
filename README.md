@@ -40,7 +40,7 @@ Built with a modern dark UI and smooth workflow focused on speed, simplicity and
 
 <div align="center">
 
-<img src="./assets/preview.png" width="290"/>
+<img src="./assets/ictp_screen.png" width="290"/>
 
 </div>
 
